@@ -1,5 +1,6 @@
 const calculateTotal = (number) => {
-console.log(10 ** 2)
+    return number ** 2
 }
 
-calculateTotal(10);
+result = calculateTotal(10);
+console.log(result)
